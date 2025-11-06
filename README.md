@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shree</h1>
-<h3 align="center">A passionate student dipping his toes in frontend, gaming, blender from the hills of Darjeeling</h3>
+<h3 align="center">dipping toes in frontend, gamedev, ai and lots more</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shree-crypto&label=Profile%20views&color=0e75b6&style=flat" alt="shree-crypto" /> </p>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**, **Appwrite**, **LLMs**, **Langchain**,  
 
 - 📫 How to reach me **shreechettri4@gmail.com**
 
-- ⚡ Fun fact **i got braces**
+- ⚡ Fun fact **i loveeee dogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
